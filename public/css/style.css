@@ -2,6 +2,10 @@
   width: 70px;
 }
 
+.img {
+  width: 250px;
+}
+
 .table > tbody > tr > * {
   vertical-align: middle;
 }
