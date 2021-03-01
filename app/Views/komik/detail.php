@@ -9,7 +9,7 @@
             <div class="card mb-3">
                 <div class="row no-gutters">
                     <div class="col-md-4">
-                        <img class="img" src="/img/<?= $komik['sampul']; ?>" alt="...">
+                        <img class="img" src="/img/<?= $komik['sampul']; ?>">
                     </div>
                     <div class="col-md-8">
                         <div class="card-body">
